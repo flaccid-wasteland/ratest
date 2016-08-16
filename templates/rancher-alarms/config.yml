@@ -1,0 +1,5 @@
+name: rancher-alarms
+description: |
+  Send notifications when a stack or service degrades in Rancher.
+version: v0.0.0
+category: Monitor
